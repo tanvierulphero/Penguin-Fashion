@@ -2,9 +2,28 @@
     color:#FABE4C;
 }
 .btn{
-    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    background: linear-gradient(180deg, #A4BC46 0%, #339900 100%);
     ;
 }
 .fas{
     color: white;
 }
+.price{
+    color: #FABE4C;
+    font-size: 30px;
+}
+.border{
+    border: none;
+}
+.card-img-top{
+    
+    
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.history{
+    width: 500px;
+    height: 100px;
+    margin-top: 3%;
+    margin-right: 100%;
+    }
