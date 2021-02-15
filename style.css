@@ -1,4 +1,21 @@
+body {
+    font-family: 'Roboto', serif;
+    
+  }
+h1{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+    color: #363958;
+}
 .brand-name-hilight{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
     color:#FABE4C;
 }
 .btn{
@@ -8,9 +25,22 @@
 .fas{
     color: white;
 }
+.item-name{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #363958;
+}
 .price{
-    color: #FABE4C;
-    font-size: 30px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+
+color: #FABE4C;
 }
 .border{
     border: none;
